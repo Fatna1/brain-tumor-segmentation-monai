@@ -1,2 +1,8 @@
-torch 
-monai
+Python 3.13.0
+monai 1.6.1
+modal 1.6.2
+torch 2.14.1+cu130
+scipy
+matlplotlib
+requests
+tqdm
