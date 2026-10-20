@@ -1,4 +1,3 @@
-# train.py
 import torch
 import config
 from data_utils import get_dataloaders
